@@ -2,6 +2,6 @@
 
 Speed Limit = 70
 
-5 more --> 1 points
+5 more --> 1 point
 
 12 points --> suspended License
